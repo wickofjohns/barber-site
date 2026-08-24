@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dylan Site Name",
+  title: "Campus Cuts",
   description: "Barber shop booking, coming soon.",
 };
 
