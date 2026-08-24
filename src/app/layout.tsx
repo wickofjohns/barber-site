@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Bored Barbers",
+  title: "Dylan Site Name",
   description: "Barber shop booking, coming soon.",
 };
 
